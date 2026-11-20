@@ -1,0 +1,20 @@
+# 编译产物
+*.exe
+*.pdb
+*.old.exe
+
+# 运行期文件
+deskrawl-mem.conf
+crash.log
+*.log
+
+# 临时截图 / 测试
+shot*.png
+crop*.png
+desktop.png
+report*.txt
+test/
+
+# 系统
+Thumbs.db
+.DS_Store
